@@ -1,0 +1,560 @@
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => AddPaymentInfo
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/
+            [event_time] => 1646131383
+            [event_id] => .cus.105
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [fbp] => fb.1.1646131237218.162215911
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 45
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW055
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => Purchase
+            [action_source] => website
+            [event_source_url] => https:///en/checkout/order-received/22499/?key=wc_order_t9M1b89uMGYQ3&utm_nooverride=1
+            [event_time] => 1646131385
+            [event_id] => .PW1066
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [em] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+                    [ph] => be0cb26bbf724b06cf78583396f38df3ab3016c4953635d5d72dd68a382d37f8
+                    [ln] => ccbbd6f151d63215e41b39ae1e7d3b445341a81feed99f33dc85308601fb5f99
+                    [fn] => 31185f00de3ac3ba045fda08bdd47880c3c0820ceebf078c82f05f5b92b0538e
+                    [ct] => 78fdb0bd1ed1a3316b1b66c9dba898a5f6b25082bb33dde5f4d0d01bfe4b2b10
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [zp] => 884e789e91d03d8ec06aa480616fccdaadd011a5e5d68dbf065155652e69c6eb
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                    [fbp] => fb.1.1646131237218.162215911
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 58.98
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW055
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => AddPaymentInfo
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/
+            [event_time] => 1646131676
+            [event_id] => .cus.105
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [fbp] => fb.1.1646131237218.162215911
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 24
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW017
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => Purchase
+            [action_source] => website
+            [event_source_url] => https:///en/checkout/order-received/22500/?key=wc_order_iYTkFWekYNqbV&utm_nooverride=1
+            [event_time] => 1646131677
+            [event_id] => .PW1067
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [em] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+                    [ph] => be0cb26bbf724b06cf78583396f38df3ab3016c4953635d5d72dd68a382d37f8
+                    [ln] => ccbbd6f151d63215e41b39ae1e7d3b445341a81feed99f33dc85308601fb5f99
+                    [fn] => 31185f00de3ac3ba045fda08bdd47880c3c0820ceebf078c82f05f5b92b0538e
+                    [ct] => 78fdb0bd1ed1a3316b1b66c9dba898a5f6b25082bb33dde5f4d0d01bfe4b2b10
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [zp] => 884e789e91d03d8ec06aa480616fccdaadd011a5e5d68dbf065155652e69c6eb
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                    [fbp] => fb.1.1646131237218.162215911
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 37.98
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW017
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => AddToCart
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/product/double-suction-cup-molar-bite-stick-dog-toy-for-aggressive-chewer/
+            [event_time] => 1646132032
+            [event_id] => .cus.105
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 27
+                    [currency] => USD
+                    [content_ids] => PW006
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => AddPaymentInfo
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/
+            [event_time] => 1646132048
+            [event_id] => .cus.105
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [fbp] => fb.1.1646131237218.162215911
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 54
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW006
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => Purchase
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/
+            [event_time] => 1646132051
+            [event_id] => .PW1068
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [em] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+                    [ph] => be0cb26bbf724b06cf78583396f38df3ab3016c4953635d5d72dd68a382d37f8
+                    [ln] => ccbbd6f151d63215e41b39ae1e7d3b445341a81feed99f33dc85308601fb5f99
+                    [fn] => 31185f00de3ac3ba045fda08bdd47880c3c0820ceebf078c82f05f5b92b0538e
+                    [ct] => 78fdb0bd1ed1a3316b1b66c9dba898a5f6b25082bb33dde5f4d0d01bfe4b2b10
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [zp] => 884e789e91d03d8ec06aa480616fccdaadd011a5e5d68dbf065155652e69c6eb
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                    [fbp] => fb.1.1646131237218.162215911
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 54.00
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW006
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => AddPaymentInfo
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/
+            [event_time] => 1646132258
+            [event_id] => .cus.105
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [fbp] => fb.1.1646131237218.162215911
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 80
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW016
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => Purchase
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/order-received/22502/?key=wc_order_aibZrfOZVcyVF&utm_nooverride=1
+            [event_time] => 1646132261
+            [event_id] => .PW1069
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [em] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+                    [ph] => be0cb26bbf724b06cf78583396f38df3ab3016c4953635d5d72dd68a382d37f8
+                    [ln] => ccbbd6f151d63215e41b39ae1e7d3b445341a81feed99f33dc85308601fb5f99
+                    [fn] => 31185f00de3ac3ba045fda08bdd47880c3c0820ceebf078c82f05f5b92b0538e
+                    [ct] => 78fdb0bd1ed1a3316b1b66c9dba898a5f6b25082bb33dde5f4d0d01bfe4b2b10
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [zp] => 884e789e91d03d8ec06aa480616fccdaadd011a5e5d68dbf065155652e69c6eb
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                    [fbp] => fb.1.1646131237218.162215911
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 80.00
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW016
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => AddPaymentInfo
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/
+            [event_time] => 1646133208
+            [event_id] => .cus.105
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [fbp] => fb.1.1646131237218.162215911
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 82
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW009
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => Purchase
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/order-received/22503/?key=wc_order_4IJdisK5ff5DI&utm_nooverride=1
+            [event_time] => 1646133210
+            [event_id] => .PW1070
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [em] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+                    [ph] => be0cb26bbf724b06cf78583396f38df3ab3016c4953635d5d72dd68a382d37f8
+                    [ln] => ccbbd6f151d63215e41b39ae1e7d3b445341a81feed99f33dc85308601fb5f99
+                    [fn] => 31185f00de3ac3ba045fda08bdd47880c3c0820ceebf078c82f05f5b92b0538e
+                    [ct] => 78fdb0bd1ed1a3316b1b66c9dba898a5f6b25082bb33dde5f4d0d01bfe4b2b10
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [zp] => 884e789e91d03d8ec06aa480616fccdaadd011a5e5d68dbf065155652e69c6eb
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                    [fbp] => fb.1.1646131237218.162215911
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 82.00
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW009
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => AddPaymentInfo
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/
+            [event_time] => 1646133533
+            [event_id] => .cus.105
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [fbp] => fb.1.1646131237218.162215911
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 69
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW021
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => Purchase
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/order-received/22504/?key=wc_order_D2g6dZpGEB69T&utm_nooverride=1
+            [event_time] => 1646133534
+            [event_id] => .PW1071
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [em] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+                    [ph] => be0cb26bbf724b06cf78583396f38df3ab3016c4953635d5d72dd68a382d37f8
+                    [ln] => ccbbd6f151d63215e41b39ae1e7d3b445341a81feed99f33dc85308601fb5f99
+                    [fn] => 31185f00de3ac3ba045fda08bdd47880c3c0820ceebf078c82f05f5b92b0538e
+                    [ct] => 78fdb0bd1ed1a3316b1b66c9dba898a5f6b25082bb33dde5f4d0d01bfe4b2b10
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [zp] => 884e789e91d03d8ec06aa480616fccdaadd011a5e5d68dbf065155652e69c6eb
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                    [fbp] => fb.1.1646131237218.162215911
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 69.00
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW021
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => AddPaymentInfo
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/
+            [event_time] => 1646134288
+            [event_id] => .cus.105
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [fbp] => fb.1.1646131237218.162215911
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 74.9
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW054
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+
+atp_event_data: Array
+(
+    [0] => Array
+        (
+            [event_name] => Purchase
+            [action_source] => website
+            [event_source_url] => https://dev.pawoui.com/en/checkout/order-received/22505/?key=wc_order_xfL9MmgC8NCHb&utm_nooverride=1
+            [event_time] => 1646134290
+            [event_id] => .PW1072
+            [user_data] => Array
+                (
+                    [client_ip_address] => 156.155.22.187
+                    [client_user_agent] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+                    [em] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+                    [ph] => be0cb26bbf724b06cf78583396f38df3ab3016c4953635d5d72dd68a382d37f8
+                    [ln] => ccbbd6f151d63215e41b39ae1e7d3b445341a81feed99f33dc85308601fb5f99
+                    [fn] => 31185f00de3ac3ba045fda08bdd47880c3c0820ceebf078c82f05f5b92b0538e
+                    [ct] => 78fdb0bd1ed1a3316b1b66c9dba898a5f6b25082bb33dde5f4d0d01bfe4b2b10
+                    [st] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+                    [zp] => 884e789e91d03d8ec06aa480616fccdaadd011a5e5d68dbf065155652e69c6eb
+                    [country] => 3c42d9ac9807bbf91745b921d4887371b41b4a52e4e78f0dd127358e967dd4e0
+                    [fbp] => fb.1.1646131237218.162215911
+                )
+
+            [custom_data] => Array
+                (
+                    [value] => 74.90
+                    [currency] => USD
+                    [content_ids] => Array
+                        (
+                            [0] => PW054
+                        )
+
+                    [content_type] => product
+                )
+
+        )
+
+)
+ 
+

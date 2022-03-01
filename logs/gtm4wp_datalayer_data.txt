@@ -1,0 +1,520 @@
+Array
+(
+    [siteID] => 0
+    [siteName] => 
+    [browserName] => Firefox
+    [browserVersion] => 97.0
+    [browserEngineName] => Gecko
+    [browserEngineVersion] => 97.0
+    [osName] => Linux
+    [osVersion] => 
+    [deviceType] => desktop
+    [deviceManufacturer] => 
+    [deviceModel] => 
+    [postID] => 7391
+    [customerTotalOrders] => 7
+    [customerTotalOrderValue] => 536.96
+    [customerFirstName] => Werner
+    [customerLastName] => Bessinger
+    [customerBillingFirstName] => Werner
+    [customerBillingLastName] => Bessinger
+    [customerBillingCompany] => 
+    [customerBillingAddress1] => 5B Danie Pienaar Crescent
+    [customerBillingAddress2] => 
+    [customerBillingCity] => Bloemfontein
+    [customerBillingPostcode] => 9301
+    [customerBillingCountry] => ZA
+    [customerBillingEmail] => werner@pawoui.com
+    [customerBillingEmailHash] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+    [customerBillingPhone] => 0733263338
+    [customerShippingFirstName] => Werner
+    [customerShippingLastName] => Bessinger
+    [customerShippingCompany] => 
+    [customerShippingAddress1] => 5B Danie Pienaar Crescent
+    [customerShippingAddress2] => 
+    [customerShippingCity] => Bloemfontein
+    [customerShippingPostcode] => 9301
+    [customerShippingCountry] => ZA
+    [ecomm_prodid] => Array
+        (
+        )
+
+    [ecomm_pagetype] => home
+    [ecomm_totalvalue] => 0
+    [fbpixel_id] => 940356496831857
+    [adword_pixel] => 303860557
+    [adword_label] => jAskCKOf1YEDEM2W8pAB
+    [yahoojp_id] => 1001190204
+    [yahoojp_label] => 90YwCIrxhv0BEP3z6r0B
+    [yahoojp_rt_id] => 1001190204
+    [yahoo_ydn_conv_io] => VgbZZgH42ycZ-7wKEJ307Q..
+    [yahoo_ydn_conv_label] => AKQV26B8SQHYM6H5IGA798993
+    [yahoo_retargeting_id] => TWCIEDNCFC
+    [gemini_pixel_id] => 10170077
+    [pinterest_pixel] => 2613624050157
+    [taboola_id] => 1339024
+    [twitter_pixel] => o78ko
+    [tiktok_pixel_id] => C1CKNSS8PMMOGUUMQ9AG
+    [outbrain_id] => 00784eda953bae497088807dda30d88601
+    [bing_uet] => 17406992
+    [quora_pixel_id] => f2dff88d588c4a69b8d7e44c51f74cdf
+    [snap_pixel_id] => 685e95b2-1e90-42fa-ab43-25911988d82f
+    [totest_id] => nordace321
+    [mautic_url] => ma.nordace.com
+    [ecomm_currencycode] => USD
+    [country] => 
+    [sitename] => 
+    [event_id] => .cus.105
+)
+Array
+(
+    [siteID] => 0
+    [siteName] => 
+    [browserName] => Firefox
+    [browserVersion] => 97.0
+    [browserEngineName] => Gecko
+    [browserEngineVersion] => 97.0
+    [osName] => Linux
+    [osVersion] => 
+    [deviceType] => desktop
+    [deviceManufacturer] => 
+    [deviceModel] => 
+    [customerTotalOrders] => 7
+    [customerTotalOrderValue] => 536.96
+    [customerFirstName] => Werner
+    [customerLastName] => Bessinger
+    [customerBillingFirstName] => Werner
+    [customerBillingLastName] => Bessinger
+    [customerBillingCompany] => 
+    [customerBillingAddress1] => 5B Danie Pienaar Crescent
+    [customerBillingAddress2] => 
+    [customerBillingCity] => Bloemfontein
+    [customerBillingPostcode] => 9301
+    [customerBillingCountry] => ZA
+    [customerBillingEmail] => werner@pawoui.com
+    [customerBillingEmailHash] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+    [customerBillingPhone] => 0733263338
+    [customerShippingFirstName] => Werner
+    [customerShippingLastName] => Bessinger
+    [customerShippingCompany] => 
+    [customerShippingAddress1] => 5B Danie Pienaar Crescent
+    [customerShippingAddress2] => 
+    [customerShippingCity] => Bloemfontein
+    [customerShippingPostcode] => 9301
+    [customerShippingCountry] => ZA
+    [ecomm_prodid] => Array
+        (
+        )
+
+    [ecomm_pagetype] => category
+    [ecomm_totalvalue] => 0
+    [fbpixel_id] => 940356496831857
+    [adword_pixel] => 303860557
+    [adword_label] => jAskCKOf1YEDEM2W8pAB
+    [yahoojp_id] => 1001190204
+    [yahoojp_label] => 90YwCIrxhv0BEP3z6r0B
+    [yahoojp_rt_id] => 1001190204
+    [yahoo_ydn_conv_io] => VgbZZgH42ycZ-7wKEJ307Q..
+    [yahoo_ydn_conv_label] => AKQV26B8SQHYM6H5IGA798993
+    [yahoo_retargeting_id] => TWCIEDNCFC
+    [gemini_pixel_id] => 10170077
+    [pinterest_pixel] => 2613624050157
+    [taboola_id] => 1339024
+    [twitter_pixel] => o78ko
+    [tiktok_pixel_id] => C1CKNSS8PMMOGUUMQ9AG
+    [outbrain_id] => 00784eda953bae497088807dda30d88601
+    [bing_uet] => 17406992
+    [quora_pixel_id] => f2dff88d588c4a69b8d7e44c51f74cdf
+    [snap_pixel_id] => 685e95b2-1e90-42fa-ab43-25911988d82f
+    [totest_id] => nordace321
+    [mautic_url] => ma.nordace.com
+    [ecomm_currencycode] => USD
+    [country] => 
+    [sitename] => 
+    [event_id] => .cus.105
+)
+Array
+(
+    [siteID] => 0
+    [siteName] => 
+    [browserName] => Firefox
+    [browserVersion] => 97.0
+    [browserEngineName] => Gecko
+    [browserEngineVersion] => 97.0
+    [osName] => Linux
+    [osVersion] => 
+    [deviceType] => desktop
+    [deviceManufacturer] => 
+    [deviceModel] => 
+    [postID] => 13478
+    [customerTotalOrders] => 7
+    [customerTotalOrderValue] => 536.96
+    [customerFirstName] => Werner
+    [customerLastName] => Bessinger
+    [customerBillingFirstName] => Werner
+    [customerBillingLastName] => Bessinger
+    [customerBillingCompany] => 
+    [customerBillingAddress1] => 5B Danie Pienaar Crescent
+    [customerBillingAddress2] => 
+    [customerBillingCity] => Bloemfontein
+    [customerBillingPostcode] => 9301
+    [customerBillingCountry] => ZA
+    [customerBillingEmail] => werner@pawoui.com
+    [customerBillingEmailHash] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+    [customerBillingPhone] => 0733263338
+    [customerShippingFirstName] => Werner
+    [customerShippingLastName] => Bessinger
+    [customerShippingCompany] => 
+    [customerShippingAddress1] => 5B Danie Pienaar Crescent
+    [customerShippingAddress2] => 
+    [customerShippingCity] => Bloemfontein
+    [customerShippingPostcode] => 9301
+    [customerShippingCountry] => ZA
+    [productRatingCounts] => Array
+        (
+        )
+
+    [productAverageRating] => 0
+    [productReviewCount] => 0
+    [productType] => variable
+    [productIsVariable] => 1
+    [ecomm_prodid] => PW054
+    [ecomm_pagetype] => product
+    [ecomm_totalvalue] => 74.9
+    [fbpixel_id] => 940356496831857
+    [adword_pixel] => 303860557
+    [adword_label] => jAskCKOf1YEDEM2W8pAB
+    [yahoojp_id] => 1001190204
+    [yahoojp_label] => 90YwCIrxhv0BEP3z6r0B
+    [yahoojp_rt_id] => 1001190204
+    [yahoo_ydn_conv_io] => VgbZZgH42ycZ-7wKEJ307Q..
+    [yahoo_ydn_conv_label] => AKQV26B8SQHYM6H5IGA798993
+    [yahoo_retargeting_id] => TWCIEDNCFC
+    [gemini_pixel_id] => 10170077
+    [pinterest_pixel] => 2613624050157
+    [taboola_id] => 1339024
+    [twitter_pixel] => o78ko
+    [tiktok_pixel_id] => C1CKNSS8PMMOGUUMQ9AG
+    [outbrain_id] => 00784eda953bae497088807dda30d88601
+    [bing_uet] => 17406992
+    [quora_pixel_id] => f2dff88d588c4a69b8d7e44c51f74cdf
+    [snap_pixel_id] => 685e95b2-1e90-42fa-ab43-25911988d82f
+    [totest_id] => nordace321
+    [mautic_url] => ma.nordace.com
+    [ecomm_currencycode] => USD
+    [usd_amount] => 74.9
+    [jpy_amount] => 8613.5
+    [country] => 
+    [sitename] => 
+    [ecomm_prodcat] => Mats &amp; Blankets
+    [event_id] => .cus.105
+)
+Array
+(
+    [fbpixel_id] => 940356496831857
+    [adword_pixel] => 303860557
+    [adword_label] => jAskCKOf1YEDEM2W8pAB
+    [yahoojp_id] => 1001190204
+    [yahoojp_label] => 90YwCIrxhv0BEP3z6r0B
+    [yahoojp_rt_id] => 1001190204
+    [yahoo_ydn_conv_io] => VgbZZgH42ycZ-7wKEJ307Q..
+    [yahoo_ydn_conv_label] => AKQV26B8SQHYM6H5IGA798993
+    [yahoo_retargeting_id] => TWCIEDNCFC
+    [gemini_pixel_id] => 10170077
+    [pinterest_pixel] => 2613624050157
+    [taboola_id] => 1339024
+    [twitter_pixel] => o78ko
+    [tiktok_pixel_id] => C1CKNSS8PMMOGUUMQ9AG
+    [outbrain_id] => 00784eda953bae497088807dda30d88601
+    [bing_uet] => 17406992
+    [quora_pixel_id] => f2dff88d588c4a69b8d7e44c51f74cdf
+    [snap_pixel_id] => 685e95b2-1e90-42fa-ab43-25911988d82f
+    [totest_id] => nordace321
+    [mautic_url] => ma.nordace.com
+    [ecomm_currencycode] => USD
+    [country] => 
+    [sitename] => 
+    [event_id] => .cus.105
+)
+Array
+(
+    [siteID] => 0
+    [siteName] => 
+    [browserName] => Firefox
+    [browserVersion] => 97.0
+    [browserEngineName] => Gecko
+    [browserEngineVersion] => 97.0
+    [osName] => Linux
+    [osVersion] => 
+    [deviceType] => desktop
+    [deviceManufacturer] => 
+    [deviceModel] => 
+    [postID] => 8
+    [customerTotalOrders] => 7
+    [customerTotalOrderValue] => 536.96
+    [customerFirstName] => Werner
+    [customerLastName] => Bessinger
+    [customerBillingFirstName] => Werner
+    [customerBillingLastName] => Bessinger
+    [customerBillingCompany] => 
+    [customerBillingAddress1] => 5B Danie Pienaar Crescent
+    [customerBillingAddress2] => 
+    [customerBillingCity] => Bloemfontein
+    [customerBillingPostcode] => 9301
+    [customerBillingCountry] => ZA
+    [customerBillingEmail] => werner@pawoui.com
+    [customerBillingEmailHash] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+    [customerBillingPhone] => 0733263338
+    [customerShippingFirstName] => Werner
+    [customerShippingLastName] => Bessinger
+    [customerShippingCompany] => 
+    [customerShippingAddress1] => 5B Danie Pienaar Crescent
+    [customerShippingAddress2] => 
+    [customerShippingCity] => Bloemfontein
+    [customerShippingPostcode] => 9301
+    [customerShippingCountry] => ZA
+    [ecomm_prodid] => Array
+        (
+            [0] => PW054-02
+        )
+
+    [ecomm_pagetype] => cart
+    [ecomm_totalvalue] => 74.9
+    [event] => gtm4wp.checkoutStepEEC
+    [ecommerce] => Array
+        (
+            [currencyCode] => USD
+            [checkout] => Array
+                (
+                    [actionField] => Array
+                        (
+                            [step] => 1
+                        )
+
+                    [products] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => PW054-02
+                                    [name] => Pawoui Moxie Interactive Pet Puzzle Snuffle Mat
+                                    [sku] => PW054-02
+                                    [category] => Mats &amp; Blankets
+                                    [price] => 74.9
+                                    [stocklevel] => 
+                                    [variant] => gray
+                                    [quantity] => 1
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [fbpixel_id] => 940356496831857
+    [adword_pixel] => 303860557
+    [adword_label] => jAskCKOf1YEDEM2W8pAB
+    [yahoojp_id] => 1001190204
+    [yahoojp_label] => 90YwCIrxhv0BEP3z6r0B
+    [yahoojp_rt_id] => 1001190204
+    [yahoo_ydn_conv_io] => VgbZZgH42ycZ-7wKEJ307Q..
+    [yahoo_ydn_conv_label] => AKQV26B8SQHYM6H5IGA798993
+    [yahoo_retargeting_id] => TWCIEDNCFC
+    [gemini_pixel_id] => 10170077
+    [pinterest_pixel] => 2613624050157
+    [taboola_id] => 1339024
+    [twitter_pixel] => o78ko
+    [tiktok_pixel_id] => C1CKNSS8PMMOGUUMQ9AG
+    [outbrain_id] => 00784eda953bae497088807dda30d88601
+    [bing_uet] => 17406992
+    [quora_pixel_id] => f2dff88d588c4a69b8d7e44c51f74cdf
+    [snap_pixel_id] => 685e95b2-1e90-42fa-ab43-25911988d82f
+    [totest_id] => nordace321
+    [mautic_url] => ma.nordace.com
+    [ecomm_currencycode] => USD
+    [usd_amount] => 74.9
+    [jpy_amount] => 8613.5
+    [country] => 
+    [sitename] => 
+    [tk_contents] => Array
+        (
+            [0] => Array
+                (
+                    [content_id] => PW054-02
+                    [content_type] => product
+                    [quantity] => 1
+                )
+
+        )
+
+    [yj_items] => Array
+        (
+            [0] => Array
+                (
+                    [item_id] => PW054-02
+                    [category_id] => product
+                    [quantity] => 1
+                )
+
+        )
+
+    [event_id] => .cus.105
+)
+Array
+(
+    [siteID] => 0
+    [siteName] => 
+    [browserName] => Firefox
+    [browserVersion] => 97.0
+    [browserEngineName] => Gecko
+    [browserEngineVersion] => 97.0
+    [osName] => Linux
+    [osVersion] => 
+    [deviceType] => desktop
+    [deviceManufacturer] => 
+    [deviceModel] => 
+    [postID] => 7391
+    [fbpixel_id] => 940356496831857
+    [adword_pixel] => 303860557
+    [adword_label] => jAskCKOf1YEDEM2W8pAB
+    [yahoojp_id] => 1001190204
+    [yahoojp_label] => 90YwCIrxhv0BEP3z6r0B
+    [yahoojp_rt_id] => 1001190204
+    [yahoo_ydn_conv_io] => VgbZZgH42ycZ-7wKEJ307Q..
+    [yahoo_ydn_conv_label] => AKQV26B8SQHYM6H5IGA798993
+    [yahoo_retargeting_id] => TWCIEDNCFC
+    [gemini_pixel_id] => 10170077
+    [pinterest_pixel] => 2613624050157
+    [taboola_id] => 1339024
+    [twitter_pixel] => o78ko
+    [tiktok_pixel_id] => C1CKNSS8PMMOGUUMQ9AG
+    [outbrain_id] => 00784eda953bae497088807dda30d88601
+    [bing_uet] => 17406992
+    [quora_pixel_id] => f2dff88d588c4a69b8d7e44c51f74cdf
+    [snap_pixel_id] => 685e95b2-1e90-42fa-ab43-25911988d82f
+    [totest_id] => nordace321
+    [mautic_url] => ma.nordace.com
+    [ecomm_currencycode] => USD
+    [country] => 
+    [sitename] => 
+    [event_id] => .cus.105
+)
+Array
+(
+    [siteID] => 0
+    [siteName] => 
+    [browserName] => Firefox
+    [browserVersion] => 97.0
+    [browserEngineName] => Gecko
+    [browserEngineVersion] => 97.0
+    [osName] => Linux
+    [osVersion] => 
+    [deviceType] => desktop
+    [deviceManufacturer] => 
+    [deviceModel] => 
+    [postID] => 8
+    [customerTotalOrders] => 8
+    [customerTotalOrderValue] => 611.86
+    [customerFirstName] => Werner
+    [customerLastName] => Bessinger
+    [customerBillingFirstName] => Werner
+    [customerBillingLastName] => Bessinger
+    [customerBillingCompany] => 
+    [customerBillingAddress1] => 5B Danie Pienaar Crescent
+    [customerBillingAddress2] => 
+    [customerBillingCity] => Bloemfontein
+    [customerBillingPostcode] => 9301
+    [customerBillingCountry] => ZA
+    [customerBillingEmail] => werner@pawoui.com
+    [customerBillingEmailHash] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+    [customerBillingPhone] => 0733263338
+    [customerShippingFirstName] => Werner
+    [customerShippingLastName] => Bessinger
+    [customerShippingCompany] => 
+    [customerShippingAddress1] => 5B Danie Pienaar Crescent
+    [customerShippingAddress2] => 
+    [customerShippingCity] => Bloemfontein
+    [customerShippingPostcode] => 9301
+    [customerShippingCountry] => ZA
+    [new_customer] => 
+    [event] => gtm4wp.orderCompletedEEC
+    [ecommerce] => Array
+        (
+            [currencyCode] => USD
+            [purchase] => Array
+                (
+                    [actionField] => Array
+                        (
+                            [id] => PW1072
+                            [affiliation] => 
+                            [revenue] => 74.9
+                            [tax] => 0
+                            [shipping] => 0
+                            [coupon] => 
+                        )
+
+                    [products] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => PW054-02
+                                    [name] => Pawoui Moxie Interactive Pet Puzzle Snuffle Mat
+                                    [sku] => PW054-02
+                                    [category] => Mats &amp; Blankets
+                                    [price] => 74.9
+                                    [stocklevel] => 
+                                    [variant] => gray
+                                    [quantity] => 1
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ecomm_prodid] => Array
+        (
+            [0] => PW054-02
+        )
+
+    [ecomm_pagetype] => purchase
+    [ecomm_totalvalue] => 74.9
+    [fbpixel_id] => 940356496831857
+    [adword_pixel] => 303860557
+    [adword_label] => jAskCKOf1YEDEM2W8pAB
+    [yahoojp_id] => 1001190204
+    [yahoojp_label] => 90YwCIrxhv0BEP3z6r0B
+    [yahoojp_rt_id] => 1001190204
+    [yahoo_ydn_conv_io] => VgbZZgH42ycZ-7wKEJ307Q..
+    [yahoo_ydn_conv_label] => AKQV26B8SQHYM6H5IGA798993
+    [yahoo_retargeting_id] => TWCIEDNCFC
+    [gemini_pixel_id] => 10170077
+    [pinterest_pixel] => 2613624050157
+    [taboola_id] => 1339024
+    [twitter_pixel] => o78ko
+    [tiktok_pixel_id] => C1CKNSS8PMMOGUUMQ9AG
+    [outbrain_id] => 00784eda953bae497088807dda30d88601
+    [bing_uet] => 17406992
+    [quora_pixel_id] => f2dff88d588c4a69b8d7e44c51f74cdf
+    [snap_pixel_id] => 685e95b2-1e90-42fa-ab43-25911988d82f
+    [totest_id] => nordace321
+    [mautic_url] => ma.nordace.com
+    [ecomm_currencycode] => USD
+    [usd_amount] => 74.9
+    [jpy_amount] => 8613.5
+    [country] => 
+    [sitename] => 
+    [event_id] => .cus.105
+    [orderEmail] => werner@pawoui.com
+    [orderShipFn] => 31185f00de3ac3ba045fda08bdd47880c3c0820ceebf078c82f05f5b92b0538e
+    [orderShipLn] => ccbbd6f151d63215e41b39ae1e7d3b445341a81feed99f33dc85308601fb5f99
+    [orderShipCity] => 78fdb0bd1ed1a3316b1b66c9dba898a5f6b25082bb33dde5f4d0d01bfe4b2b10
+    [orderShipState] => f71f7b443cf23e606f946dc774dcaac9a51d3e10df3bbfa0106351c56e0cf93f
+    [orderShipZip] => 884e789e91d03d8ec06aa480616fccdaadd011a5e5d68dbf065155652e69c6eb
+    [orderShipCountry] => 9a8bf3ebbe6f826e39772c4763bea0722b18c0e4b5b7ba2fe6813f02f7f0a06a
+    [orderShipPhone] => be0cb26bbf724b06cf78583396f38df3ab3016c4953635d5d72dd68a382d37f8
+    [fb_event_id] => nordace.PW1072
+    [orderNumber] => PW1072
+    [hashed_em] => bb576327dd425c4068ff8e96af6d319d228dee26b721edc933bff83140638f40
+)

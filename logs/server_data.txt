@@ -1,0 +1,288 @@
+Array
+(
+    [SERVER_SOFTWARE] => nginx/1.21.3
+    [REQUEST_URI] => /en/checkout/order-received/22500/?key=wc_order_iYTkFWekYNqbV&utm_nooverride=1
+    [TEMP] => /home/pawoui/tmp
+    [TMPDIR] => /home/pawoui/tmp
+    [TMP] => /home/pawoui/tmp
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [USER] => pawoui
+    [HOME] => /home/pawoui
+    [HTTP_COOKIE] => wp-settings-time-105=1646131396; wp_woocommerce_session_b33186f52bd8cea54d0b94d0200bcd9b=105%7C%7C1646205146%7C%7C1646201546%7C%7Cc9c41d98c5196dd140b3ac62d4f3a23b; PHPSESSID=ra9tiiktb54hbpie39ammr11lm; wordpress_test_cookie=WP%20Cookie%20check; wp_lang=en_US; wordpress_logged_in_b33186f52bd8cea54d0b94d0200bcd9b=werner%7C1646296530%7CXdHZmEqcAZCe5OtJrcMlcIZsYVdmEc7GN3zR3EzBftk%7C392357c157149abdd7614b959266afd0de9881cbb7bbe682f8e13c501d7d1b22; pll_language=en; _gcl_au=1.1.952981202.1646127644; rtkclickid-store=621df8223eb8670001f4d1c4; rtkclickid-store=621df2153eb86700011b9205; _rdt_uuid=1646127655881.e953cabe-d744-4bd2-9865-2cc138113558; tk_ai=woo%3A7tVbOS4lOM13XCJiS3nJm4v%2F; _ts_yjad=1646129742184; _pin_unauth=dWlkPVlqRmtOR1l6TWpNdE0yVmpaUzAwWldJNUxXRXdaRFF0WmpreE5EUTRZak5qTUdabA; _clck=1pfjr2g|1|eze|0; _clsk=13dmth0|1646131640048|9|1|l.clarity.ms/collect; _fbp=fb.1.1646131237218.162215911; _scid=c3c73865-002a-4e21-b85c-8ac1f52a3807; _sctr=1|1646085600000; __lt__cid=1f80cd1d-9bbe-49eb-8762-df87fdde70f1; __lt__sid=9d450829-f8120fff; outbrain_cid_fetch=true; _uetsid=0616d980994c11ec9e8a170f840dedb0; _uetvid=0616c610994c11ec8bd195286c20405e
+    [HTTP_TE] => trailers
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_REFERER] => https://dev.pawoui.com/en/checkout/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+    [HTTP_HOST] => dev.pawoui.com
+    [PATH_INFO] => /index.php
+    [CONTENT-LENGTH] => 
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => dev.pawoui.com
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 51.222.80.91
+    [REMOTE_PORT] => 33380
+    [REMOTE_ADDR] => 156.155.22.187
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [DOCUMENT_ROOT] => /home/pawoui/web/dev.pawoui.com/public_html
+    [DOCUMENT_URI] => /index.php
+    [SCRIPT_NAME] => /index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => key=wc_order_iYTkFWekYNqbV&utm_nooverride=1
+    [SCRIPT_FILENAME] => /home/pawoui/web/dev.pawoui.com/public_html/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /index.php/index.php
+    [REQUEST_TIME_FLOAT] => 1646131677.3018
+    [REQUEST_TIME] => 1646131677
+)
+Array
+(
+    [SERVER_SOFTWARE] => nginx/1.21.3
+    [REQUEST_URI] => /en/checkout/order-received/22501/?key=wc_order_NfBazs6osuEdp&utm_nooverride=1
+    [TEMP] => /home/pawoui/tmp
+    [TMPDIR] => /home/pawoui/tmp
+    [TMP] => /home/pawoui/tmp
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [USER] => pawoui
+    [HOME] => /home/pawoui
+    [HTTP_COOKIE] => wp-settings-time-105=1646131752; wp_woocommerce_session_b33186f52bd8cea54d0b94d0200bcd9b=105%7C%7C1646205146%7C%7C1646201546%7C%7Cc9c41d98c5196dd140b3ac62d4f3a23b; PHPSESSID=ra9tiiktb54hbpie39ammr11lm; wordpress_test_cookie=WP%20Cookie%20check; wp_lang=en_US; wordpress_logged_in_b33186f52bd8cea54d0b94d0200bcd9b=werner%7C1646296530%7CXdHZmEqcAZCe5OtJrcMlcIZsYVdmEc7GN3zR3EzBftk%7C392357c157149abdd7614b959266afd0de9881cbb7bbe682f8e13c501d7d1b22; pll_language=en; _gcl_au=1.1.952981202.1646127644; rtkclickid-store=621df8223eb8670001f4d1c4; rtkclickid-store=621df2153eb86700011b9205; _rdt_uuid=1646127655881.e953cabe-d744-4bd2-9865-2cc138113558; tk_ai=woo%3A7tVbOS4lOM13XCJiS3nJm4v%2F; _ts_yjad=1646129742184; _pin_unauth=dWlkPVlqRmtOR1l6TWpNdE0yVmpaUzAwWldJNUxXRXdaRFF0WmpreE5EUTRZak5qTUdabA; _clck=1pfjr2g|1|eze|0; _clsk=13dmth0|1646132043036|15|1|l.clarity.ms/collect; _fbp=fb.1.1646131237218.162215911; _scid=c3c73865-002a-4e21-b85c-8ac1f52a3807; _sctr=1|1646085600000; __lt__cid=1f80cd1d-9bbe-49eb-8762-df87fdde70f1; __lt__sid=9d450829-f8120fff; outbrain_cid_fetch=true; _uetsid=0616d980994c11ec9e8a170f840dedb0; _uetvid=0616c610994c11ec8bd195286c20405e
+    [HTTP_TE] => trailers
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_REFERER] => https://dev.pawoui.com/en/checkout/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+    [HTTP_HOST] => dev.pawoui.com
+    [PATH_INFO] => /index.php
+    [CONTENT-LENGTH] => 
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => dev.pawoui.com
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 51.222.80.91
+    [REMOTE_PORT] => 33566
+    [REMOTE_ADDR] => 156.155.22.187
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [DOCUMENT_ROOT] => /home/pawoui/web/dev.pawoui.com/public_html
+    [DOCUMENT_URI] => /index.php
+    [SCRIPT_NAME] => /index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => key=wc_order_NfBazs6osuEdp&utm_nooverride=1
+    [SCRIPT_FILENAME] => /home/pawoui/web/dev.pawoui.com/public_html/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /index.php/index.php
+    [REQUEST_TIME_FLOAT] => 1646132050.2871
+    [REQUEST_TIME] => 1646132050
+)
+Array
+(
+    [SERVER_SOFTWARE] => nginx/1.21.3
+    [REQUEST_URI] => /en/checkout/order-received/22502/?key=wc_order_aibZrfOZVcyVF&utm_nooverride=1
+    [TEMP] => /home/pawoui/tmp
+    [TMPDIR] => /home/pawoui/tmp
+    [TMP] => /home/pawoui/tmp
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [USER] => pawoui
+    [HOME] => /home/pawoui
+    [HTTP_COOKIE] => wp-settings-time-105=1646131752; wp_woocommerce_session_b33186f52bd8cea54d0b94d0200bcd9b=105%7C%7C1646205146%7C%7C1646201546%7C%7Cc9c41d98c5196dd140b3ac62d4f3a23b; PHPSESSID=ra9tiiktb54hbpie39ammr11lm; wordpress_test_cookie=WP%20Cookie%20check; wp_lang=en_US; wordpress_logged_in_b33186f52bd8cea54d0b94d0200bcd9b=werner%7C1646296530%7CXdHZmEqcAZCe5OtJrcMlcIZsYVdmEc7GN3zR3EzBftk%7C392357c157149abdd7614b959266afd0de9881cbb7bbe682f8e13c501d7d1b22; pll_language=en; _gcl_au=1.1.952981202.1646127644; rtkclickid-store=621df8223eb8670001f4d1c4; rtkclickid-store=621df2153eb86700011b9205; _rdt_uuid=1646127655881.e953cabe-d744-4bd2-9865-2cc138113558; tk_ai=woo%3A7tVbOS4lOM13XCJiS3nJm4v%2F; _ts_yjad=1646129742184; _pin_unauth=dWlkPVlqRmtOR1l6TWpNdE0yVmpaUzAwWldJNUxXRXdaRFF0WmpreE5EUTRZak5qTUdabA; _clck=1pfjr2g|1|eze|0; _clsk=13dmth0|1646132250460|20|1|l.clarity.ms/collect; _fbp=fb.1.1646131237218.162215911; _scid=c3c73865-002a-4e21-b85c-8ac1f52a3807; _sctr=1|1646085600000; __lt__cid=1f80cd1d-9bbe-49eb-8762-df87fdde70f1; __lt__sid=9d450829-f8120fff; outbrain_cid_fetch=true; _uetsid=0616d980994c11ec9e8a170f840dedb0; _uetvid=0616c610994c11ec8bd195286c20405e
+    [HTTP_TE] => trailers
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_REFERER] => https://dev.pawoui.com/en/checkout/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+    [HTTP_HOST] => dev.pawoui.com
+    [PATH_INFO] => /index.php
+    [CONTENT-LENGTH] => 
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => dev.pawoui.com
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 51.222.80.91
+    [REMOTE_PORT] => 33784
+    [REMOTE_ADDR] => 156.155.22.187
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [DOCUMENT_ROOT] => /home/pawoui/web/dev.pawoui.com/public_html
+    [DOCUMENT_URI] => /index.php
+    [SCRIPT_NAME] => /index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => key=wc_order_aibZrfOZVcyVF&utm_nooverride=1
+    [SCRIPT_FILENAME] => /home/pawoui/web/dev.pawoui.com/public_html/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /index.php/index.php
+    [REQUEST_TIME_FLOAT] => 1646132260.6738
+    [REQUEST_TIME] => 1646132260
+)
+Array
+(
+    [SERVER_SOFTWARE] => nginx/1.21.3
+    [REQUEST_URI] => /en/checkout/order-received/22503/?key=wc_order_4IJdisK5ff5DI&utm_nooverride=1
+    [TEMP] => /home/pawoui/tmp
+    [TMPDIR] => /home/pawoui/tmp
+    [TMP] => /home/pawoui/tmp
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [USER] => pawoui
+    [HOME] => /home/pawoui
+    [HTTP_COOKIE] => wp-settings-time-105=1646131752; wp_woocommerce_session_b33186f52bd8cea54d0b94d0200bcd9b=105%7C%7C1646205146%7C%7C1646201546%7C%7Cc9c41d98c5196dd140b3ac62d4f3a23b; PHPSESSID=ra9tiiktb54hbpie39ammr11lm; wordpress_test_cookie=WP%20Cookie%20check; wp_lang=en_US; wordpress_logged_in_b33186f52bd8cea54d0b94d0200bcd9b=werner%7C1646296530%7CXdHZmEqcAZCe5OtJrcMlcIZsYVdmEc7GN3zR3EzBftk%7C392357c157149abdd7614b959266afd0de9881cbb7bbe682f8e13c501d7d1b22; pll_language=en; _gcl_au=1.1.952981202.1646127644; rtkclickid-store=621df8223eb8670001f4d1c4; rtkclickid-store=621df2153eb86700011b9205; _rdt_uuid=1646127655881.e953cabe-d744-4bd2-9865-2cc138113558; tk_ai=woo%3A7tVbOS4lOM13XCJiS3nJm4v%2F; _ts_yjad=1646129742184; _pin_unauth=dWlkPVlqRmtOR1l6TWpNdE0yVmpaUzAwWldJNUxXRXdaRFF0WmpreE5EUTRZak5qTUdabA; _clck=1pfjr2g|1|eze|0; _clsk=13dmth0|1646133195370|26|1|www.clarity.ms/eus-d/collect; _fbp=fb.1.1646131237218.162215911; _scid=c3c73865-002a-4e21-b85c-8ac1f52a3807; _sctr=1|1646085600000; __lt__cid=1f80cd1d-9bbe-49eb-8762-df87fdde70f1; __lt__sid=9d450829-f8120fff; outbrain_cid_fetch=true; _uetsid=0616d980994c11ec9e8a170f840dedb0; _uetvid=0616c610994c11ec8bd195286c20405e
+    [HTTP_TE] => trailers
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_REFERER] => https://dev.pawoui.com/en/checkout/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+    [HTTP_HOST] => dev.pawoui.com
+    [PATH_INFO] => /index.php
+    [CONTENT-LENGTH] => 
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => dev.pawoui.com
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 51.222.80.91
+    [REMOTE_PORT] => 34208
+    [REMOTE_ADDR] => 156.155.22.187
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [DOCUMENT_ROOT] => /home/pawoui/web/dev.pawoui.com/public_html
+    [DOCUMENT_URI] => /index.php
+    [SCRIPT_NAME] => /index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => key=wc_order_4IJdisK5ff5DI&utm_nooverride=1
+    [SCRIPT_FILENAME] => /home/pawoui/web/dev.pawoui.com/public_html/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /index.php/index.php
+    [REQUEST_TIME_FLOAT] => 1646133209.7013
+    [REQUEST_TIME] => 1646133209
+)
+Array
+(
+    [SERVER_SOFTWARE] => nginx/1.21.3
+    [REQUEST_URI] => /en/checkout/order-received/22504/?key=wc_order_D2g6dZpGEB69T&utm_nooverride=1
+    [TEMP] => /home/pawoui/tmp
+    [TMPDIR] => /home/pawoui/tmp
+    [TMP] => /home/pawoui/tmp
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [USER] => pawoui
+    [HOME] => /home/pawoui
+    [HTTP_COOKIE] => wp-settings-time-105=1646131752; wp_woocommerce_session_b33186f52bd8cea54d0b94d0200bcd9b=105%7C%7C1646205146%7C%7C1646201546%7C%7Cc9c41d98c5196dd140b3ac62d4f3a23b; PHPSESSID=ra9tiiktb54hbpie39ammr11lm; wordpress_test_cookie=WP%20Cookie%20check; wp_lang=en_US; wordpress_logged_in_b33186f52bd8cea54d0b94d0200bcd9b=werner%7C1646296530%7CXdHZmEqcAZCe5OtJrcMlcIZsYVdmEc7GN3zR3EzBftk%7C392357c157149abdd7614b959266afd0de9881cbb7bbe682f8e13c501d7d1b22; pll_language=en; _gcl_au=1.1.952981202.1646127644; rtkclickid-store=621df8223eb8670001f4d1c4; rtkclickid-store=621df2153eb86700011b9205; _rdt_uuid=1646127655881.e953cabe-d744-4bd2-9865-2cc138113558; tk_ai=woo%3A7tVbOS4lOM13XCJiS3nJm4v%2F; _ts_yjad=1646129742184; _pin_unauth=dWlkPVlqRmtOR1l6TWpNdE0yVmpaUzAwWldJNUxXRXdaRFF0WmpreE5EUTRZak5qTUdabA; _clck=1pfjr2g|1|eze|0; _clsk=13dmth0|1646133515254|31|1|www.clarity.ms/eus-d/collect; _fbp=fb.1.1646131237218.162215911; _scid=c3c73865-002a-4e21-b85c-8ac1f52a3807; _sctr=1|1646085600000; __lt__cid=1f80cd1d-9bbe-49eb-8762-df87fdde70f1; __lt__sid=9d450829-f8120fff; outbrain_cid_fetch=true; _uetsid=0616d980994c11ec9e8a170f840dedb0; _uetvid=0616c610994c11ec8bd195286c20405e
+    [HTTP_TE] => trailers
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_REFERER] => https://dev.pawoui.com/en/checkout/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+    [HTTP_HOST] => dev.pawoui.com
+    [PATH_INFO] => /index.php
+    [CONTENT-LENGTH] => 
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => dev.pawoui.com
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 51.222.80.91
+    [REMOTE_PORT] => 34486
+    [REMOTE_ADDR] => 156.155.22.187
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [DOCUMENT_ROOT] => /home/pawoui/web/dev.pawoui.com/public_html
+    [DOCUMENT_URI] => /index.php
+    [SCRIPT_NAME] => /index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => key=wc_order_D2g6dZpGEB69T&utm_nooverride=1
+    [SCRIPT_FILENAME] => /home/pawoui/web/dev.pawoui.com/public_html/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /index.php/index.php
+    [REQUEST_TIME_FLOAT] => 1646133534.1867
+    [REQUEST_TIME] => 1646133534
+)
+Array
+(
+    [SERVER_SOFTWARE] => nginx/1.21.3
+    [REQUEST_URI] => /en/checkout/order-received/22505/?key=wc_order_xfL9MmgC8NCHb&utm_nooverride=1
+    [TEMP] => /home/pawoui/tmp
+    [TMPDIR] => /home/pawoui/tmp
+    [TMP] => /home/pawoui/tmp
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [USER] => pawoui
+    [HOME] => /home/pawoui
+    [HTTP_COOKIE] => wp-settings-time-105=1646131752; wp_woocommerce_session_b33186f52bd8cea54d0b94d0200bcd9b=105%7C%7C1646205146%7C%7C1646201546%7C%7Cc9c41d98c5196dd140b3ac62d4f3a23b; PHPSESSID=ra9tiiktb54hbpie39ammr11lm; wordpress_test_cookie=WP%20Cookie%20check; wp_lang=en_US; wordpress_logged_in_b33186f52bd8cea54d0b94d0200bcd9b=werner%7C1646296530%7CXdHZmEqcAZCe5OtJrcMlcIZsYVdmEc7GN3zR3EzBftk%7C392357c157149abdd7614b959266afd0de9881cbb7bbe682f8e13c501d7d1b22; pll_language=en; _gcl_au=1.1.952981202.1646127644; rtkclickid-store=621df8223eb8670001f4d1c4; rtkclickid-store=621df2153eb86700011b9205; _rdt_uuid=1646127655881.e953cabe-d744-4bd2-9865-2cc138113558; tk_ai=woo%3A7tVbOS4lOM13XCJiS3nJm4v%2F; _ts_yjad=1646129742184; _pin_unauth=dWlkPVlqRmtOR1l6TWpNdE0yVmpaUzAwWldJNUxXRXdaRFF0WmpreE5EUTRZak5qTUdabA; _clck=1pfjr2g|1|eze|0; _clsk=13dmth0|1646134200673|37|1|www.clarity.ms/eus2-d/collect; _fbp=fb.1.1646131237218.162215911; _scid=c3c73865-002a-4e21-b85c-8ac1f52a3807; _sctr=1|1646085600000; __lt__cid=1f80cd1d-9bbe-49eb-8762-df87fdde70f1; __lt__sid=9d450829-f8120fff; outbrain_cid_fetch=true; _uetsid=0616d980994c11ec9e8a170f840dedb0; _uetvid=0616c610994c11ec8bd195286c20405e
+    [HTTP_TE] => trailers
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_REFERER] => https://dev.pawoui.com/en/checkout/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0
+    [HTTP_HOST] => dev.pawoui.com
+    [PATH_INFO] => /index.php
+    [CONTENT-LENGTH] => 
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => dev.pawoui.com
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 51.222.80.91
+    [REMOTE_PORT] => 34862
+    [REMOTE_ADDR] => 156.155.22.187
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/2.0
+    [DOCUMENT_ROOT] => /home/pawoui/web/dev.pawoui.com/public_html
+    [DOCUMENT_URI] => /index.php
+    [SCRIPT_NAME] => /index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => key=wc_order_xfL9MmgC8NCHb&utm_nooverride=1
+    [SCRIPT_FILENAME] => /home/pawoui/web/dev.pawoui.com/public_html/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /index.php/index.php
+    [REQUEST_TIME_FLOAT] => 1646134290.19
+    [REQUEST_TIME] => 1646134290
+)
