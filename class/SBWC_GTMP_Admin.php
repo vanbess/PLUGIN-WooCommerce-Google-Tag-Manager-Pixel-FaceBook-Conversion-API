@@ -37,7 +37,7 @@ class SBWC_GTMP_Admin
     {
         add_menu_page(
             __('Google Tag Manager (Pixel) & FB Conversion API Settings', 'default'),
-            __('Google Pixel Settings', 'default'),
+            __('Google TM & FB API Settings', 'default'),
             'manage_options',
             'sbwc-gtag-manager-settings',
             [__CLASS__, 'admin_settings_render'],
